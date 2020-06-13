@@ -1,7 +1,8 @@
 # Final Examination 
+# Advanced Learning and Study Skills
 # H M P K Ranjan Kumara Herath
 ## ID: MS20911058
-## Faculty of Computing - Advanced Learning and Study Skills
+## Faculty of Computing
 ## Sri Lanka Institute of information Technology
 ## Malabe, Sri Lanka
 ## For my presentation: 
