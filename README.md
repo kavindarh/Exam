@@ -1,5 +1,5 @@
 # Final Examination 
-# Advanced Learning and Study Skills
+# Applied Network
 # H M P K Ranjan Kumara Herath
 ## ID: MS20911058
 ## Faculty of Computing
